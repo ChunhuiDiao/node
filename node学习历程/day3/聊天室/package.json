@@ -1,0 +1,9 @@
+{
+	"name":"online-wechat",
+	"version":"0.1",
+	"description":"first nodejs code",
+	"dependencies":{
+		"socket.io":"~0.9.6",
+		"mime":"~1.2.7"
+	}
+}
